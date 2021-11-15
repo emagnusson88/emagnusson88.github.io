@@ -1,34 +1,60 @@
-## Portfolio
+# Portfolio
+
+---
+## Featured Projects
+
+### UFC Prediction Web App
+
+[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://ufc-prediction.herokuapp.com/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/UFC-Prediction)
+
+<div style="text-align: justify">I predicted the winner of upcoming UFC fights with an accuracy of 0.66 using a linear SVM classifier. The past MMA event and athlete data was scraped from the official UFC Stats website with BeautifulSoup. To display the predictions, I developed a web application using the Streamlit open‑source framework and deployed via the Heroku cloud platform.
+</div>
+<br>
+<center><img src="images/ufc-webapp.png"/></center>
+<br>
+
+---
+### Firm Strategy and Financial Performance with Natural Language Processing
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/firm-strategy-nlp)
+
+<div style="text-align: justify">My team predicted whether a company would outperform the S&P 500 with an accuracy of 0.67 using a k‑nearest neighbors classifier. Historical stock returns were collected using the Alpha Vantage API. For each company, a filtered bag‑of‑words model was created from the forward‑looking text of each company’s SEC annual reporting.</div>
+<br>
+<center><img src="images/nlp-collage.png"></center>
+<br>
+
+---
+### Accessible Infectious Disease Forecasting
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/infectious-disease)
+
+<div style="text-align: justify">My team created an interactive web app for forecasting COVID-19 cases using Shiny. The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus repository. Future case counts are forecasted with a SEIR compartmental model. Users are able to upload their own data in an effort to make COVID-19 forecasting more accessible.</div>
+<br>
+<center><img src="images/covid-shiny-webapp.png"></center>
+<br>
 
 ---
 
-### Category Name 1 
+## Other Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Image Compression with K-Means Clustering
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW1_Code.html)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
 
----
+### Simple Facial Recognition with Eigenvalues
 
-### Category Name 2
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW2_Code.html)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<br>
 
----
+### Kernel Density Estimation for Psychological Experiments
 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW3_Code.html)
 
-
+<br>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
