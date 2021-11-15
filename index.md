@@ -42,19 +42,13 @@
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW1_Code.html)
 
-<br>
-
 ### Simple Facial Recognition with Eigenvalues
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW2_Code.html)
 
-<br>
-
 ### Kernel Density Estimation for Psychological Experiments
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](pdf/HW3_Code.html)
-
-<br>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
