@@ -35,7 +35,16 @@
 <br>
 
 ---
+### Deep Reinforcement Learning for Satellite Station-Keeping
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/geo-sk-rl)
+
+<div style="text-align: justify">My team automated the lifespan‑extending maneuvers of a satellite using deep reinforcement learning with TensorFlow+Keras. We simulated satellite lifespan by designing a custom OpenAI Gym environment to replicate the conditions of geostationary orbit. Pipelines were used to integrate a Java‑based orbit propagator with a Python implementation of the proximal policy optimization algorithm.</div>
+<br>
+<center><img src="images/geo-collage.png"/></center>
+<br>
+
+---
 ## Other Projects
 
 ### Image Compression with K-Means Clustering
