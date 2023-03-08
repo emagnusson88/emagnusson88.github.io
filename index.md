@@ -3,6 +3,18 @@
 ---
 ## Featured Projects
 
+### FluentGPT: Language Learning App
+
+[![Open Web App](https://fluent-gpt.com/)
+<!-- [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/exoplanet_st) -->
+
+<div style="text-align: justify">My team and I built and deployed an app that allows users to have spoken conversations in a foreign language to simulate immersion. We leveraged OpenAI and Google APIs for NLP tasks.
+</div>
+<br>
+<center><img src="images/Exoplanet.png"/></center>
+<br>
+
+---
 ### Exoplanet Detection with Deep Learning
 
 <!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://ufc-prediction.herokuapp.com/) -->
