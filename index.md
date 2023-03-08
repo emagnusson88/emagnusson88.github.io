@@ -3,6 +3,18 @@
 ---
 ## Featured Projects
 
+### Exoplanet Detection with Deep Learning
+
+<!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://ufc-prediction.herokuapp.com/) -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/emagnusson88/exoplanet_st)
+
+<div style="text-align: justify">My team automated the detection of planets outside our solar system using time series data from Kepler and TESS NASA missions. We built the full deep learning architecture with PyTorch, eliminating the need for feature engineering used in previous state of the art models. The final model achieved an F1-score of 0.73 when classifying candidate planets, beating the performance of the existing benchmark model (F1-score: 0.70).
+</div>
+<br>
+<center><img src="images/Exoplanet.png"/></center>
+<br>
+
+---
 ### UFC Prediction Web App
 
 [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](https://ufc-prediction.herokuapp.com/)
